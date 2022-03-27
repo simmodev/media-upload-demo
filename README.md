@@ -1,6 +1,6 @@
 # 🖼️ Media-Upload-Demo
 
-This project is a demo for <a target="_blank" href="https://github.com/s1modev/media-upload">Media-Upload</a> package:
+This project is a demo for <a target="_blank" href="https://github.com/simmodev/vue-media-upload">vue-media-upload</a> package:
 
 # 💻 Installation guide
 

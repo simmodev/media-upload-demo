@@ -26,6 +26,6 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "vue-media-upload": "^1.0.3"
+        "vue-media-upload": "^1.1.3"
     }
 }
